@@ -8,8 +8,8 @@ Passionné par les défis techniques, je souhaite rejoindre une équipe dynamiqu
 
 ## 💼 Ce que je fais actuellement
 
-Je contribue activement à des projets chez **Medulla**, notamment sur des problématiques d'automatisation, d'intégration MDM, et de déploiement Linux.  
-En parallèle, je développe **mes projets personnels**, selon ma disponibilité.
+Je contribue activement à des projets professionnels, notamment sur des problématiques d'automatisation, d'intégration MDM, et de déploiement Linux.
+En parallèle, je développe mes projets personnels, selon ma disponibilité.
 
 > ⚙️ Je ne fais pas "juste du code" : je réfléchis aussi à **l'architecture**, aux **technologies choisies**, et aux **idées** qui valent la peine d’être mises en place.  
 > Cela peut réduire ma fréquence de commits visibles, mais c’est parce que je travaille **en profondeur** sur des fondations solides.  
